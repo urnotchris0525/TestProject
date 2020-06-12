@@ -1,0 +1,11 @@
+cat:
+  name: kitty
+  color: white
+  age: 5
+  gender: male
+
+dog:
+  name: Husky
+  color: black and white
+  age: 6
+  gender: female
